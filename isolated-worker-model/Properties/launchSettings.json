@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "isolated_worker_model": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7124",
+      "launchBrowser": false
+    }
+  }
+}
