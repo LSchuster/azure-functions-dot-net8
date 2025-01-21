@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isolated-worker-model", "isolated-worker-model\isolated-worker-model.csproj", "{5CA385C8-61CD-2EA6-FA6E-066A0102001D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CA385C8-61CD-2EA6-FA6E-066A0102001D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA385C8-61CD-2EA6-FA6E-066A0102001D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA385C8-61CD-2EA6-FA6E-066A0102001D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA385C8-61CD-2EA6-FA6E-066A0102001D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {670883E0-6C6B-4C15-92A1-B0B95D9C5AA8}
+	EndGlobalSection
+EndGlobal
